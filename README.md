@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ishant Kataria</h1>
+![MasterHead](https://user-images.githubusercontent.com/76683598/121713108-1baeb000-cafa-11eb-955e-c970d98952e6.png)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=E61936&width=435&lines=Hi%2C+I'm+Ishant+Kataria+;I'm+passionate+about+Data+Science+;Learning+new+things+everyday;Click+on+my+repositories+to+see+my++;work" alt="Typing SVG" /></a>
+<img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
 <h3 align="center">Certified Data Scientist/Analyst with a post-graduatation Program in Data Analytics and Machine Learning from Imarticus Learning, Delhi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksht88&label=Profile%20views&color=0e75b6&style=flat" alt="ksht88" /> </p>
