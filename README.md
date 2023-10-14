@@ -1,7 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/76683598/121713108-1baeb000-cafa-11eb-955e-c970d98952e6.png)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=500&color=E61936&width=435&lines=Hi%2C+I'm+Ishant+Kataria+;I'm+passionate+about+Data+Science+;Learning+new+things+everyday;Click+on+my+repositories+to+see+my++;work" alt="Typing SVG" /></a>
-<img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
-<h3 align="center">Certified Data Scientist/Analyst with a post-graduatation Program in Data Analytics and Machine Learning from Imarticus Learning, Delhi</h3>
+![MasterHead](https://i.pinimg.com/originals/d4/b0/04/d4b004a0e2210a0700e58c42ae89360a.gif)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=47F700&background=19FF1400&center=true&random=false&width=435&lines=Ishant+this+side+.....;+Data+Analyst%2C+Full+Stack+Developer" alt="Typing SVG" /></a>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/f6/99/89/f69989d362798d0294e25a31bf58f6e9.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ksht88&label=Profile%20views&color=0e75b6&style=flat" alt="ksht88" /> </p>
 
@@ -9,17 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/ksht88" target="blank"><img src="https://img.shields.io/twitter/follow/ksht88?logo=twitter&style=for-the-badge" alt="ksht88" /></a> </p>
 
-- 🔭 I’m currently working on Flight price prediction project [Air-Fare](https://github.com/ksht88/Air-Fare-Prediction/blob/main/Ishant%20Capstone%20Project%202%20-%20Air%20Fare%20Prediction.ipynb)
+- 🔭 I’m currently working on an website, you can always check my portfolio.
 
-- 🌱 I’m currently learning **HTML, CSS, JAVA**
+- 🌱 I’m currently learning New Technologies
 
 - 👨‍💻 All of my projects are available at [https://github.com/ksht88?tab=repositories](https://github.com/ksht88?tab=repositories)
+ 
+- 👨‍💻 Here is my Portfolio [https://kataria.netlify.app/]
 
-- 💬 Ask me about **Python, R, Machine Learning, SQL, EXCEL,Deep Learning, Visualization, Stats, Probabilty, Tableau, PowerBI, Hadoop**
+- 💬 Ask me about **Python, R, Machine Learning, SQL, EXCEL,Deep Learning, Visualization, Stats, Probabilty, Tableau, PowerBI, HTML, CSS, JAVA, JAVASCRIPT, Hadoop**
 
 - 📫 How to reach me **katariaishant3@gmail.com**
 
-- ⚡ Fun fact **I am always positive**
+- ⚡ Fun fact **I Know Everything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
